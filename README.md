@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Elgamel</h1>
-<h3 align="center">A passionate Full-Stack developer from Egypt</h3>
+<h3 align="center">A passionate Backend developer from Egypt</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaled-Elgamel&label=Profile%20views&color=0e75b6&style=flat" alt="khaled elgamel" /> </p>
@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on PHP and Laravel 9<br><br>🌱 I’m currently learning MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/khaled-Elgamel<br><br>💬 Ask me about PHP Laravel 9 || ML<br><br>📫 How to reach me kelgamel67@gmail.com<br><br>⚡ Fun fact loving sports (Football - Basketball )
+🔭 I’m currently working on Node Js  and Express <br><br>🌱 I’m currently learning MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/khaled-Elgamel<br><br>💬 Ask me about Node js || ML<br><br>📫 How to reach me kelgamel67@gmail.com<br><br>⚡ Fun fact loving sports (Football - Basketball )
 
 
 ## 🌐 Socials:
