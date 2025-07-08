@@ -100,10 +100,13 @@
 
 ###
 
-<h3 align="left">✍️ Random Dev Quote</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=khaled-Elgamel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.<br>- Jim Horning</p>
+
+
 
 ###
