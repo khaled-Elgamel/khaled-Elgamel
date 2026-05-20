@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Node Js, Express and NestJS<br><br>🌱 I’m currently working as a software developer<br><br>👨‍💻 All of my projects are available at https://github.com/khaled-Elgamel<br><br>💬 Ask me about Node js || Express<br><br>📫 How to reach me kelgamel67@gmail.com<br><br>⚡ Fun fact loving sports (Football - Basketball )</p>
+<p align="left">🔭 I’m currently building backend applications using Node.js, Express, and NestJS<br><br>🌱 Software Developer specializing in backend systems and APIs<br><br>👨‍💻 All of my projects are available at https://github.com/khaled-Elgamel<br><br>💬 Ask me about Node.js, Express, NestJS, and Backend Development.<br><br>📫 How to reach me kelgamel67@gmail.com<br><br>⚡ Fun fact: I enjoy football and basketball</p>
 
 ###
 
